@@ -6,7 +6,7 @@
 
 <img align="right" alt=coding width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-[![committers.top badge](https://user-badge.committers.top/oman_private/USERNAME.svg)](https://user-badge.committers.top/oman_private/USERNAME)
+[![committers.top badge](https://user-badge.committers.top/oman_private/USERNAME.svg)](https://user-badge.committers.top/oman_private/suazhanif)
 
 - 🔭 Won the "best paper award" in **website fingerprinting using Graph Neural Networks**
 
